@@ -6,7 +6,6 @@ agirlik = float(input("Ağırlığınızı kg cinsinden giriniz : "))
 vki=agirlik/(boy*boy)
 print ("Vücut kitle indeksiniz :", vki)
 
-
 # Maaşı ve zam oranı girilen işçinin zamlı maaşını hesaplayarak ekranda gösteriniz.
 
 maas=float(input("Mevcut maaşı girin :"))
