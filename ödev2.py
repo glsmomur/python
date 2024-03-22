@@ -87,5 +87,6 @@ def asal_carpans(sayi):
     
     return carpanlar
 
+
 sayi = int(input("Bir sayı girin: "))
 print(f"{sayi} sayısının asal çarpanları: {asal_carpans(sayi)}") 
